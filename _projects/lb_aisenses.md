@@ -1,5 +1,5 @@
 ---
-name: AI Senses
+name: Artificial Senses
 layout: project
 type: project
 year: 2017
@@ -13,8 +13,8 @@ order: 1
 
 collaborators:
 context: Archives
-contact-email:
-contact-person:
+contact-email: kmlbrcht@gmail.com
+contact-person: kim
 technologies: 
 opportunities-for-involvement:
 
@@ -49,7 +49,7 @@ media:
 
 links:
   - link1: 
-    title: AI Senses
+    title: Artificial Senses
     url: https://kimalbrecht.github.io/ai-senses/
 
 
