@@ -12,7 +12,7 @@ sub-name: curatorial-aigents
 
 collaborators: Harvard Art Museums
 context: Archives
-contact-email: me@kimalbrecht.com
+contact-email: kmlbrcht@gmail.com
 contact-person: kim
 technologies:
 
